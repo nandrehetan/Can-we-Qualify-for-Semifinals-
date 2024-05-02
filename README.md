@@ -26,5 +26,10 @@ cd Can-we-Qualify-for-Semifinals
 ```bash
 streamly run icpc.py
 
-
 ```
+
+## Flowchart
+![flowchart](https://github.com/nandrehetan/Can-we-Qualify-for-Semifinals-/assets/97376783/d84387a6-87c6-40df-a640-a9a7389b2a1e)
+
+
+
