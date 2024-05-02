@@ -33,3 +33,16 @@ streamlit run icpc.py
 
 
 
+## Usage
+
+Once the application is running, you can interact with the application through the web interface.
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/yourusername/Effective-Search-in-Address-Book/issues).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
