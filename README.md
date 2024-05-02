@@ -24,7 +24,7 @@ cd Can-we-Qualify-for-Semifinals
 
 2. Run the script and provide the binary string of match results as input:
 ```bash
-streamly run icpc.py
+streamlit run icpc.py
 
 ```
 
