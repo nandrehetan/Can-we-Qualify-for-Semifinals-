@@ -17,7 +17,7 @@ The subsequent phases involve a circular rotation of the team list, keeping the 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Can-we-Qualify-for-Semifinals.git
+git clone https://github.com/nandrehetan/Can-we-Qualify-for-Semifinals.git
 cd Can-we-Qualify-for-Semifinals
 
 ```
